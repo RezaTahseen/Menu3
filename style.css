@@ -12,8 +12,8 @@ body{
 }
 .menu ul{
     list-style: none;
-	text-align: center;
-	margin: 0;
+    text-align: center;
+    margin: 0;
 }
 .menu ul li{
     display: inline-block;
@@ -22,9 +22,9 @@ body{
 }
 .menu ul li a{
     text-decoration: none;
-	color: #fff;
-	padding: 16px 24px;
-	display: inline-block;
+    color: #fff;
+    padding: 16px 24px;
+    display: inline-block;
     border-left: 1px solid #fff; 
 }
 .menu ul li a:hover{
